@@ -1,2 +1,2 @@
 # projeto-todolist
- Aplicação de lista de afazeres
+ Aplicação de lista de afazeres em React
