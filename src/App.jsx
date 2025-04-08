@@ -32,7 +32,7 @@ function App() {
     e.preventDefault();
 
     const todo = {
-      id: Math.floor(Math.random() * 1000000), // Gera um ID inteiro
+      id: Math.floor(Math.random() * 1000000).toString(), // Gera um ID inteiro
       title,
       time,
       done: false,
